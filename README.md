@@ -30,7 +30,7 @@ The discovered themes broadly include:
 ## 📂 Repository Structure
 
 ```text
-├── data/                  # sample cleaned dataset or metadata
+├── data/                 # sample cleaned dataset or metadata
 ├── notebooks/            # public notebooks for visualization and topic modelling
 ├── figures/              # charts, pyLDAvis, topic distribution, pie/bar charts
 ├── results/              # coherence comparison and extracted topics
@@ -73,7 +73,7 @@ This public repository only provides the **research-ready code structure, select
 The **full experimental notebooks, raw scraping pipeline, and complete preprocessing workflow** are available **for academic purposes upon request**.
 
 Please contact:
-**[anisa@example.com](mailto:anisa@example.com)**
+**[anisahusna044@gmail.com](mailto:anisahusna044@gmail.com)**
 
 Suggested request details:
 
@@ -87,7 +87,7 @@ Suggested request details:
 If you use this repository for academic purposes, please cite the corresponding publication or thesis.
 
 ```text
-Anisa Husna Nuha. Topic Modelling of Mathematics Theses at PTKIN in Java Using LDA and N-gram. 2026.
+Anisa Husna Nuha. Pemodelan Topik Skripsi Program Studi Matematika Menggunakan Metode Latent Dirichlet Allocation dan N-gram. 2026.
 ```
 
 ## 🤝 Academic Use
